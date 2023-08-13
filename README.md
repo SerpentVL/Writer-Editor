@@ -18,8 +18,8 @@ ISBN 5-469-00352-3
 Эту книгу я редактировал по английскому оригиналу  
 
 ## Рецензии на книги (RSDN)
-[Рефакторинг](https://rsdn.org/?res/book/prog/refactoring.xml)
-[Горький вкус Java](https://rsdn.org/?res/book/java/bitterjava.xml)
-[Алгоритмические трюки для программистов](https://rsdn.org/?res/book/prog/worren.xml)
-[Разработка через тестирование](https://rsdn.org/?res/book/prog/beck.xml)  
+[Рефакторинг](https://rsdn.org/?res/book/prog/refactoring.xml)  
+[Горький вкус Java](https://rsdn.org/?res/book/java/bitterjava.xml)  
+[Алгоритмические трюки для программистов](https://rsdn.org/?res/book/prog/worren.xml)  
+[Разработка через тестирование](https://rsdn.org/?res/book/prog/beck.xml)    
 Всего написано 14 рецензий
